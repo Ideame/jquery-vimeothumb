@@ -9,7 +9,7 @@ Include script after the jQuery library:
 
 ```html
 <script src="/path/to/jquery-vimeothumb.min.js"></script>
-```html
+```
 
 Provide a placeholder image source and include the vimeo identifier using the **data-vimeo-id** attribute. You can also specify the **small**, **medium** or **large** class to change the thumbnail size ( default: medium ).
 
