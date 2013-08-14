@@ -4,7 +4,7 @@
  * Original author: Juan Pablo Garcia
  * version: 1.0.0 (Wed, 14 Aug 2013)
  * Further changes, comments: @jpgd
- * Source Code: https://github.com/Ideame/jquery-vimeo-thumb
+ * Source Code: https://github.com/Ideame/jquery-vimeothumb
  * Licensed under the MIT license
  */
 
