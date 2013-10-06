@@ -1,5 +1,5 @@
 {
-    "name": "bootstrap",
+    "name": "jquery-vimeothumb",
     "version": "3.0.0",
     "main": [
         "jquery-vimeothumb.js"
