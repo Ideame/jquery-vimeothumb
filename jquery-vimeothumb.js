@@ -38,7 +38,7 @@
                             if ($(e).hasClass('large')) {
                                 $(e).attr('src', data[0].thumbnail_large);
                             } else if ($(e).hasClass('small')) {
-                                $(e).attr('src', data[0].thumbnail_thumb);
+                                $(e).attr('src', data[0].thumbnail_small);
                             } else {
                                 $(e).attr('src', data[0].thumbnail_medium);
                             }
